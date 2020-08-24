@@ -1,5 +1,6 @@
 # Notes from MySQL Bootcamp course with Colt Steele 
 
+# Clear workspace, and create ig_clone database
 DROP DATABASE IF EXISTS ig_clone;
 CREATE DATABASE ig_clone;
 USE ig_clone; 
